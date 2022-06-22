@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meadow
-parent: NtJM
+parent: Novice to Journeyman
 nav_order: 1
 ---
 
