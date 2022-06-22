@@ -11,4 +11,5 @@ permalink: /docs/Vice
 Asset Testing
 {: .fs-6 .fw-300 }
 
-![Kuh](/mhbasics/assets/Kuh.png)
+# Resize image
+[]: # <img src="/mhbasics/assets/Kuh.png" alt="Moo" width="300" height="300">
