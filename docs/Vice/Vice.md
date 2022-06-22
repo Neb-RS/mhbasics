@@ -11,4 +11,4 @@ permalink: /docs/Vice
 Asset Testing
 {: .fs-6 .fw-300 }
 
-[[Kuh]](/mhbasics/assets/Kuh.png)
+![Kuh](/mhbasics/assets/Kuh.png)
