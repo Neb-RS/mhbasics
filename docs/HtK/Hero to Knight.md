@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Master to Grandmaster
+title: Hero to Knight
 nav_order: 3
 has_children: true
-permalink: /docs/MtGM
+permalink: /docs/HtK
 ---
 
-# Chapter 2
+# Chapter x
 
 You're looking for a ship. Ahoy!
 {: .fs-6 .fw-300 }
