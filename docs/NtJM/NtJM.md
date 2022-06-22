@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Noice to Journeyman
+title: Novice to Journeyman
 nav_order: 2
 has_children: true
 permalink: /docs/NtJM
