@@ -5,7 +5,7 @@ parent: Novice to Journeyman
 nav_order: 1
 ---
 
-# Chapter 1: Meadow
+## Meadow
 
   You start the game as a Novice with 1,000 gold and 3 Cheddar Cheese.
   If you are given a choice between Mouse Hot Tub and High Tension Spring, choose Mouse Hot Tub. Otherwise, you will be given High Tension Spring.
