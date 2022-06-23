@@ -19,9 +19,10 @@ Follow Larry’s instructions. Click the Hunter’s Horn when available. Use Che
 You may want to learn about Trap Mechanics.
 
 ### Freebies
-Redeem two free gifts by clicking the following links. It is not required to like MouseHunt Facebook fans page although it also notifies you news and freebies.
+Redeem two free gifts by clicking the following links. It is not required to like [MouseHunt Facebook fans page](https://www.facebook.com/MouseHuntTheGame/) although it also notifies you news and freebies.
 
 [Fan Base](https://www.mousehuntgame.com/fanbase.php?claimreward)
+
 [Gouda Lovers Charm Pack](https://www.mousehuntgame.com/goudalovers.php?claimreward)
 
 ### Moving on

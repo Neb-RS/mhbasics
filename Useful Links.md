@@ -15,6 +15,8 @@ This place would be kept up to date with links to useful resources.
 ## Charts
 
 ## Others
-
+[Discord Server](https://discord.gg/mousehunt)
+[Facebook](https://www.facebook.com/MouseHuntTheGame/)
+[Reddit](https://www.reddit.com/r/mousehunt/)
 
 

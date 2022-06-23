@@ -31,7 +31,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Mousehunt Discord Server":
-    - "//discordapp.com/invite/Ya9zEdk"
+    - "//discordapp.com/mousehunt"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
