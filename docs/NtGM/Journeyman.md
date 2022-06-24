@@ -24,7 +24,7 @@ Buy Charm Conduit from Mountain Charm Shoppe. This allows you to equip Charms, a
 
 The gameplay in Mountain can be divided into three stages.
 
-Stage 1: Boulder Breaking
+<p>Stage 1: Boulder Breaking
     <h2><ul>
     <li>Buy some Super Snowball Charm from Marketplace.</li>
     <li>Use Brie Cheese and equip Power Charm to deal damage to the boulder same as the Power of the charm equipped.</li>
@@ -42,7 +42,7 @@ Stage 3: Boss
     <li>Switch to Abominable Asiago Cheese to attract Abominable Snow Mouse.</li>
     <li>If you use up all Abominable Asiago Cheese without catching Abominable Snow, go back to previous stages. Repeat the cycle until you catch Abominable Snow Mouse.</li>
     <li>Abominable Snow Mouse drops Laboratory Map Piece.</li>
-    </ul></h2>
+    </ul></h2></p>
 
 Don’t use the looted Super Power Charm here.
 
