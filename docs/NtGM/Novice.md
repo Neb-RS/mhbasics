@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Meadow
-parent: Novice
+title: Novice
+parent: Novice to Grandmaster
 nav_order: 1
 ---
 
