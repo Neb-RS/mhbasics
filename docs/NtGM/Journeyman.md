@@ -10,10 +10,10 @@ nav_order: 5
 # Journeyman
 {: .fs-9 }
 
-## Harbour
+## Mountain
 {: .fs-5 .fw-300 }
 
-Full of fresh air and plenty of sunshine, the Harbour seems to attract the types of mice who boast of sea salt in their veins.
+This treacherous environment only allows the toughest of mice to survive. Be warned: the Mountain is no place for the novice mouse hunter!
 {: .fs-4 .fw-300 }
 
 ### Chapter 5
