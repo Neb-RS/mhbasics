@@ -25,24 +25,24 @@ Buy Charm Conduit from Mountain Charm Shoppe. This allows you to equip Charms, a
 The gameplay in Mountain can be divided into three stages.
 
 Stage 1: Boulder Breaking
-    <h2><ul>
+    <ul>
     <li>Buy some Super Snowball Charm from Marketplace.</li>
     <li>Use Brie Cheese and equip Power Charm to deal damage to the boulder same as the Power of the charm equipped.</li>
     <li>Once you deal at least 1000 damage to the boulder, click Claim Chedd-Ore to claim.</li> <li>Chedd-Ore from the broken boulder.</li>
     <li>Repeat the cycle until you have obtained at least 15 Chedd-Ore Cheese.</li>
-    </ul></h2>
+    </ul>
 Stage 2: Mountain Climbing
-    <h2><ul>
+    <ul>
     <li>Switch to Chedd-Ore Cheese and disarm charms. Do not trust the difficulty rating – you can still catch mice adequately without charms here.</li>
     <li>Once you have obtained 3 Faceted Sugar and 3 Iced Curd, craft Abominable Asiago Cheese using its 3 piece recipe. The 5 piece recipe is not worth its cost.</li>
     <li>Go back to Stage 1 to collect more Chedd-Ore Cheese if you don’t have enough Faceted Sugar and Iced Curd to craft Abominable Asiago.</li>
-    </h2>
+    </ul>
 Stage 3: Boss
-    <blockquote><h2><ul>
+    <blockquote><ul>
     <li>Switch to Abominable Asiago Cheese to attract Abominable Snow Mouse.</li>
     <li>If you use up all Abominable Asiago Cheese without catching Abominable Snow, go back to previous stages. Repeat the cycle until you catch Abominable Snow Mouse.</li>
     <li>Abominable Snow Mouse drops Laboratory Map Piece.</li>
-    </ul></h2></blockquote>
+    </ul></blockquote>
 
 Don’t use the looted Super Power Charm here.
 
