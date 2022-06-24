@@ -14,6 +14,8 @@ Special thanks to all who helped. Few honorable mentions: Neb, Meloon, Pew Pew, 
 
 This guide was inspired by [Phil's guide](https://mousehuntbasics.wordpress.com/) & [Mozka's guide](https://adefinitivemhguide.wordpress.com/).
 
+Official MouseHunt's Wiki can be found [here](https://mhwiki.hitgrab.com/wiki/index.php/MouseHunt_Wiki).
+
 # Disclaimer
 
 This is a guide for the game, MouseHunt. The words wouldn’t make sense if you don’t play the game.
