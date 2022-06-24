@@ -19,8 +19,12 @@ This windmill, and the farm beside it, used to belong to one of Gnawnia's most p
 ### Chapter 3
 
 Use Swiss Cheese.
+
 Hunt until you collect 12 Packets of Flour.
+
 Trade in Packets of Flour for Grilled Cheese. Arm Grilled Cheese to attract Captain Croissant Mouse.
+
 If you miss Captain Croissant, switch back to Swiss Cheese. Repeat the cycle until you catch Captain Croissant Mouse.
+
 Claim the adventure Repair the Windmill after you have caught Captain Croissant Mouse.
 Travel to Harbour once you rank up to [Initiate](https://kuhmann.github.io/mhbasics/docs/NtGM/Initiate).
