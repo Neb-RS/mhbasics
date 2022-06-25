@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Gold farming
-parent: index
+parent: Appendices
 nav_order: 12
 ---
 
-juz get rich lah
+# juz get rich lah
 
 Asset Testing
 {: .fs-6 .fw-300 }
