@@ -2,7 +2,7 @@
 layout: default
 title: Gold farming
 parent: index
-nav_order: 12
+nav_order: 2
 ---
 
 juz get rich lah
