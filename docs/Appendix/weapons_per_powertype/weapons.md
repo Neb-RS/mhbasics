@@ -2,7 +2,7 @@
 layout: default
 title: Weapons
 nav_order: 1
-parent: index
+parent: Appendices
 has_children: true
 has_toc: false
 permalink: /docs/Appendix/weapons_per_powertype

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gold farming
-parent: index
+parent: Appendices
 nav_order: 2
 
 ---
