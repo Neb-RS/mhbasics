@@ -8,5 +8,5 @@ permalink: /docs/LtB
 
 ## Chapter x
 
-You're looking for a ship. Ahoy!
+Chess Pieces, War and something twisted!
 {: .fs-6 .fw-300 }

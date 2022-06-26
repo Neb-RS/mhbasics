@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/NtJM
 ---
 
-# Chapter 1
+# Novice to Grandmaster
 
 The first few steps of your journey in the game.
 {: .fs-6 .fw-300 }
