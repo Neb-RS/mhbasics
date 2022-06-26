@@ -10,7 +10,7 @@ This is an attempt to refresh the guides for Mousehunt the game.
  - We only have 3 collective braincells, so feel free to contribute or raise suggestions.
  - If you spot any mistakes, please feel free to send in a Pull Request.
 
-Special thanks to all who helped. Few honorable mentions: Neb, Meloon, Pew Pew, Zaf and many others who helped with advice, ideas, and otherwise. Also thanks to contributors and discord community members.
+Special thanks to all who helped. Few honorable mentions: Els, Mellon, Neb, Pew Pew, Zaf and many others who helped with advice, ideas, and otherwise. Also thanks to contributors and discord community members.
 
 This guide was inspired by [Phil's guide](https://mousehuntbasics.wordpress.com/) & [Mozka's guide](https://adefinitivemhguide.wordpress.com/).
 
