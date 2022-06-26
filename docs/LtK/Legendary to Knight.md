@@ -11,4 +11,4 @@ permalink: /docs/HtK
 You found the shore. The Tribal Isles, Dragons!
 {: .fs-6 .fw-300 }
 
-[<img src="/mhbasics/assets/Kuh.png" alt="Physical">](https://kuhmann.github.io/mhbasics/docs/Appendix/weapons_per_powertype/physical)%7B: .btn .btn-red }
+[<img src="/mhbasics/assets/Kuh.png" alt="Physical">](https://kuhmann.github.io/mhbasics/docs/Appendix/weapons_per_powertype/physical){: .btn .btn-red }
