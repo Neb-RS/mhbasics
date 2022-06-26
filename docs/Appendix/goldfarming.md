@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Gold farming
-parent: Appendices
-nav_order: 12
+parent: index
+nav_order: 2
+
 ---
 
 # juz get rich lah
