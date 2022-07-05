@@ -1,6 +1,6 @@
 # Mousehunt Guide 2022
 
-Found [Here](https://kuhmann.github.io/mhbasics/).
+Found [Here](https://mhcommunity.github.io/mhbasics/).
 
 This is an attempt to refresh the guides for Mousehunt the game.
 
