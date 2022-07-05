@@ -11,4 +11,4 @@ permalink: /docs/Vice
 Asset Testing
 {: .fs-6 .fw-300 }
 
-<img src="/mhbasics/assets/Kuh.png" alt="Moo" width="300" height="300">
+<img src="/assets/images/Kuh.png" alt="Moo" width="300" height="300">
