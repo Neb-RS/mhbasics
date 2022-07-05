@@ -5,7 +5,7 @@ nav_order: 1
 parent: Appendices
 has_children: true
 has_toc: false
-permalink: /docs/Appendix/weapons_per_powertype
+permalink: /appendix/weapons-per-powertype
 ---
 
 ## Weapons

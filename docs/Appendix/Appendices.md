@@ -3,7 +3,7 @@ layout: default
 title: Appendices
 nav_order: 10
 has_children: true
-permalink: /docs/Appendix
+permalink: appendix
 ---
 
 ## Appendices

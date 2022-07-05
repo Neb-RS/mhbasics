@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Archduke
+title: Archduke/Archduchess
 nav_order: 8
 has_children: true
-permalink: /docs/AD
+permalink: /archduke
 ---
 
 ## Chapter x

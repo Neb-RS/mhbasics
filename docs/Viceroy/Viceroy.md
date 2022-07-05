@@ -3,7 +3,7 @@ layout: default
 title: Viceroy +
 nav_order: 9
 has_children: true
-permalink: /docs/Vice
+permalink: /viceroy
 ---
 
 ## Chapter x

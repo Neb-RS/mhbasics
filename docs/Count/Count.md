@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Count
+title: Count/Countess
 nav_order: 6
 has_children: true
-permalink: /docs/Count
+permalink: /count
 ---
 
 ## Chapter x
