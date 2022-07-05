@@ -55,4 +55,4 @@ Sell looted Small Power Charms and Orbs on Marketplace.
 
 Claim the adventure Find the Hidden Mountain Pass after you have caught Abominable Snow Mouse.
 
-Travel to Laboratory once you rank up to [Master](/NtGM/6. Master).
+Travel to Laboratory once you rank up to [Master](/novice-to-grandmaster/master).
