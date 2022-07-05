@@ -6,10 +6,26 @@ description: "MHbasics Rewrite."
 permalink: /
 ---
 
-# MH Basics II(?).
-{: .fs-9 }
+# Mousehunt Guide 2022
 
-Made you click.
-{: .fs-6 .fw-300 }
+[🧀️  mhcommunity.github.io/mhbasics 🐁️](https://mhcommunity.github.io/mhbasics)
 
-[Join The Discord](https://discord.gg/mousehunt){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Play The Game](https://www.mousehuntgame.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+This is a refresh of the guides for [MouseHunt](https://mousehuntgames.com) written by a group of community volunteers.
+
+## Contributing
+
+Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt).
+
+- [ ] todo: add CONTRIBUTING.md & notes here on how to suggest changes or whatever.
+
+## Acknowledgements
+
+Special thanks to all who have helped; contributors, Discord community members, everyone else.
+
+This guide was inspired by [Phil's guide](https://mousehuntbasics.wordpress.com/) & [Mozka's guide](https://adefinitivemhguide.wordpress.com/).
+
+## Disclaimer
+
+This is a guide for the game MouseHunt. The words wouldn’t make sense if you don’t play the game.
+
+All MouseHunt images included here are property of [HitGrab Inc](https://hitgrab.com/).
