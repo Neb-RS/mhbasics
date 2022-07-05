@@ -1,25 +1,21 @@
 # Mousehunt Guide 2022
 
-Found [Here](https://mhcommunity.github.io/mhbasics/).
+This is a refresh of the guides for [MouseHunt](https://mousehuntgames.com) written by a group of community volunteers.
 
-This is an attempt to refresh the guides for Mousehunt the game.
+## Contributing
 
- - Greatly inspired by previous guides.
- - Only worked on by Community Volunteers.
- - Most of us can be contacted at [Discord](https://discord.gg/mousehunt).
- - We only have 3 collective braincells, so feel free to contribute or raise suggestions.
- - If you spot any mistakes, please feel free to send in a Pull Request.
+Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt).
 
-Special thanks to all who helped. Few honorable mentions: Els, Mellon, Neb, Pew Pew, Zaf and many others who helped with advice, ideas, and otherwise. Also thanks to contributors and discord community members.
+- [ ] todo: add CONTRIBUTING.md & notes here on how to suggest changes or whatever.
+
+## Acknowledgements
+
+Special thanks to all who have helped; contributors, Discord community members, everyone else.
 
 This guide was inspired by [Phil's guide](https://mousehuntbasics.wordpress.com/) & [Mozka's guide](https://adefinitivemhguide.wordpress.com/).
 
-Official MouseHunt's Wiki can be found [here](https://mhwiki.hitgrab.com/wiki/index.php/MouseHunt_Wiki).
+## Disclaimer
 
-# Disclaimer
-
-This is a guide for the game, MouseHunt. The words wouldn’t make sense if you don’t play the game.
-
-The guide offers explanations and suggestions. You may vary your strategy based on your resources.
+This is a guide for the game MouseHunt. The words wouldn’t make sense if you don’t play the game.
 
 All MouseHunt images included here are property of [HitGrab Inc](https://hitgrab.com/).
