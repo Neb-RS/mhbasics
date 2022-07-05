@@ -3,7 +3,7 @@ baseurl: "/mhbasics"
 url: "https://mhcommunity.github.io"
 
 permalink: pretty
-exlude: ["node_modules/", ".gitignore", ".prettierrc", ".prettierignore", ".stylelintrc.json", "docker-compose.yml", "Dockerfile", "LICENSE.md", "package.json", "package-lock.json", "Rakefile", "Template.md"]
+exclude: ["node_modules/", ".gitignore", ".prettierrc", ".prettierignore", ".stylelintrc.json", "docker-compose.yml", "Dockerfile", "Gemfile", "Gemfile.lock", "LICENSE.md", "mhbasics.gemspec", "package.json", "package-lock.json", "Rakefile", "Template.md"]
 
 # enable or disable the site search
 # supports true (default) or false
