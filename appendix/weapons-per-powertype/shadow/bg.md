@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Bottomless Grave
-parent: Weapons
+parent: Shadow
+permalink: /appendix/weapons-per-powertype/shadow/bg
 nav_order: 1
+
 ---
 
 ## Bottomless Grave

@@ -164,4 +164,4 @@ Claim the adventure Craft the S.S. Huntington IV after you have crafted the ship
 
 If you still haven’t ranked up, farm gold at Mousoleum.
 
-Travel to S.S. Huntington IV when you rank up to [Legendary](/LtK/8. Legendary).
+Travel to S.S. Huntington IV when you rank up to [Legendary](/novice-to-grandmaster/legendary).

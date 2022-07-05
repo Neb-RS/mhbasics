@@ -32,4 +32,4 @@ Redeem two free gifts by clicking the following links. It is not required to lik
 
 ### Moving on
 Do NOT open Gouda Lovers Charm Pack now.
-Travel to Town of Gnawnia once you rank up to [Recruit](/NtGM/2. Recruit).
+Travel to Town of Gnawnia once you rank up to [Recruit](/novice-to-grandmaster/recruit).

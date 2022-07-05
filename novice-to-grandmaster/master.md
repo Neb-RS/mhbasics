@@ -119,4 +119,4 @@ Claim the adventure Climb Up the Great Gnarled Tree once you get Map of the Lago
 
 Return to Mousoleum (and Laboratory) to farm more gold until you rank up to Grandmaster.
 
-Checkout where to travel once you rank up to [Grandmaster](/NtGM/7. Grandmaster).
+Checkout where to travel once you rank up to [Grandmaster](/novice-to-grandmaster/grandmaster).
