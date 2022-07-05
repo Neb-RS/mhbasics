@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bg
+title: Bottomless Grave
 parent: Weapons
 nav_order: 1
 ---
