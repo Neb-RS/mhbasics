@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lord to Baron
+title: Lord to Baron/Baronness
 nav_order: 5
 has_children: true
-permalink: /docs/LtB
+permalink: /lord-to-baron
 ---
 
 ## Chapter x

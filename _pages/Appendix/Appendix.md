@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Appendices
+title: Appendix
 nav_order: 10
 has_children: true
-permalink: /docs/Appendix
 ---
 
-## Appendices
+## Appendix
 General useful information that doesn't belong to a specific stage in the game
 
 Asset Testing

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Count
-nav_order: 6
+title: Archduke/Archduchess
+nav_order: 8
 has_children: true
-permalink: /docs/Count
+permalink: /archduke
 ---
 
 ## Chapter x

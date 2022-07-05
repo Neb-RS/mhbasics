@@ -1,7 +1,5 @@
 # Mousehunt Guide 2022
 
-[🧀️  mhcommunity.github.io/mhbasics 🐁️](https://mhcommunity.github.io/mhbasics)
-
 This is a refresh of the guides for [MouseHunt](https://mousehuntgames.com) written by a group of community volunteers.
 
 ## Contributing

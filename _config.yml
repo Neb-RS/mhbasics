@@ -3,6 +3,9 @@ title: Mousehunt Guide
 permalink: pretty
 exclude: ["node_modules/", ".gitignore", ".prettierrc", ".prettierignore", ".stylelintrc.json", "docker-compose.yml", "Dockerfile", "Gemfile", "Gemfile.lock", "LICENSE.md", "mhbasics.gemspec", "package.json", "package-lock.json", "Rakefile", "Template.md"]
 
+include:
+ - _pages
+
 # enable or disable the site search
 # supports true (default) or false
 search_enabled: true

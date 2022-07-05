@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Duke to Grandduke
+title: Duke to Grand Duke/Duchess
 nav_order: 7
 has_children: true
-permalink: /docs/DtGD
+permalink: /duke-to-grand-duke
 ---
 
 ## Chapter x

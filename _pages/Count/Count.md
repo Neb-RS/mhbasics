@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Archduke
-nav_order: 8
+title: Count/Countess
+nav_order: 6
 has_children: true
-permalink: /docs/AD
+permalink: /count
 ---
 
 ## Chapter x
