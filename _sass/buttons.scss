@@ -119,4 +119,7 @@
 .btn-red {
   @include btn-color($white, #ee2020);
 }
+.btn-pink {
+  @include btn-color($white, #eb6390);
+}
 
