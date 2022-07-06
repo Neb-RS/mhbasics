@@ -10,14 +10,14 @@ nav_order: 1
 
 ## Bottomless Grave
 
-<img src="/assets/images/bg.png" alt="uncovered undercover sceptic tank" width="300">
+<img src="/assets/images/bg.png" alt="uncovered undercover sceptic tank" width="600">
 
 |||||
 |---|---|---|---|
 | __Power__ 	| 1500 	| __Luck__ 	| 5 	|
 | __Power Bonus__ 	| 0% 	|__Attarction Bonus__ 	| 0% 	|
 | __Cheese Effect__ 	| No Effect 	| __Powertype__ 	| Shadow 	|
-| __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| - 65400 gold 	|
+| __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| *65400 gold 	|
 
 ### Weapon Acquisition
 The Bottomless Grave can be bought directly from the Trapsmith for 65400 Gold in a number of locations, most notably the Laboratory and the Mousoleum.
