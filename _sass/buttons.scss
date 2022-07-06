@@ -106,20 +106,35 @@
 }
 
 .btn-purple {
-  @include btn-color($white, $purple-100);
+  @include btn-color($white, #5720a5);
 }
 
 .btn-blue {
-  @include btn-color($white, $blue-000);
+  @include btn-color($white, #44c3ff);
 }
 
 .btn-green {
-  @include btn-color($white, $green-100);
+  @include btn-color($white, #04ac04);
 }
 .btn-red {
   @include btn-color($white, #ee2020);
 }
 .btn-pink {
   @include btn-color($white, #eb6390);
+}
+.btn-black {
+  @include btn-color($white, #505050);
+}
+.btn-grey {
+  @include btn-color($white, #807688);
+}
+.btn-orange {
+  @include btn-color($white, #ea490a);
+}
+.btn-yellow {
+  @include btn-color($white, #edc16a);
+}
+.btn-purple {
+  @include btn-color($white, #621fa5);
 }
 
