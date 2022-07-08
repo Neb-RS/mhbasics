@@ -33,5 +33,4 @@ Remember to click Claim Reward to receive the bounty. You will not progress your
 
 Note that you can sell excess cheese purchased/looted to the Cheese Shoppe without losing gold.
 Claim the adventure Secure the Town of Gnawnia once you have claimed all bounties.
-Continue hunting in Town of Gnawnia with Swiss Cheese.
-Travel to Windmill once you rank up to [Apprentice](/novice-to-grandmaster/apprentice)
+When you have done so, you'll be ranked up to [Apprentice](/novice-to-grandmaster/apprentice), congratulations! You can now travel to the Windmill.
